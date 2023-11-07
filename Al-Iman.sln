@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Al-ImanMedicalCenter", "Al-ImanMedicalCenter\Al-ImanMedicalCenter.csproj", "{2DEA98CC-BA58-4772-A499-F75F8D7FA741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Al-Iman.Models", "Al-Iman.Models\Al-Iman.Models.csproj", "{17396672-9BD8-460A-99F4-3627146AB11B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Al-Iman.ViewModels", "Al-Iman.ViewModels\Al-Iman.ViewModels.csproj", "{F8659250-1712-4A3B-92F7-D347034386DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Al-Iman.Repositories", "Al-Iman.Repositories\Al-Iman.Repositories.csproj", "{CBA403C7-E058-4BDA-9895-617BD1F7F566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Al-Iman.Services", "Al-Iman.Services\Al-Iman.Services.csproj", "{F81A7B9C-E893-4F9A-9EEC-CA68B22FC48A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Al-Iman.Utilities", "Al-Iman.Utilities\Al-Iman.Utilities.csproj", "{971A02A2-3D84-42B0-A22E-4DE0DBAE5375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DEA98CC-BA58-4772-A499-F75F8D7FA741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DEA98CC-BA58-4772-A499-F75F8D7FA741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DEA98CC-BA58-4772-A499-F75F8D7FA741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DEA98CC-BA58-4772-A499-F75F8D7FA741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17396672-9BD8-460A-99F4-3627146AB11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17396672-9BD8-460A-99F4-3627146AB11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17396672-9BD8-460A-99F4-3627146AB11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17396672-9BD8-460A-99F4-3627146AB11B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8659250-1712-4A3B-92F7-D347034386DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8659250-1712-4A3B-92F7-D347034386DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8659250-1712-4A3B-92F7-D347034386DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8659250-1712-4A3B-92F7-D347034386DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBA403C7-E058-4BDA-9895-617BD1F7F566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA403C7-E058-4BDA-9895-617BD1F7F566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA403C7-E058-4BDA-9895-617BD1F7F566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA403C7-E058-4BDA-9895-617BD1F7F566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F81A7B9C-E893-4F9A-9EEC-CA68B22FC48A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81A7B9C-E893-4F9A-9EEC-CA68B22FC48A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81A7B9C-E893-4F9A-9EEC-CA68B22FC48A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81A7B9C-E893-4F9A-9EEC-CA68B22FC48A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{971A02A2-3D84-42B0-A22E-4DE0DBAE5375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971A02A2-3D84-42B0-A22E-4DE0DBAE5375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971A02A2-3D84-42B0-A22E-4DE0DBAE5375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971A02A2-3D84-42B0-A22E-4DE0DBAE5375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47A37C7A-EA60-4A1C-9037-4D7E1A1C331E}
+	EndGlobalSection
+EndGlobal

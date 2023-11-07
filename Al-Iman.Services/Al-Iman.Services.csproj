@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Al_Iman.Services</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Al-Iman.Utilities\Al-Iman.Utilities.csproj" />
+    <ProjectReference Include="..\Al-Iman.ViewModels\Al-Iman.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>
